@@ -25,6 +25,7 @@ NOAH_SAUNDERS = Author(name="Noah Saunders", url="https://morioh.com/p/7066169a0
 NAVEEN_KUMAR = Author(name="Naveen Kumar", url="https://github.com/QAInsights")
 MAARTEN_GROOTENDORST = Author(name="Maarten Grootendorst", url="https://github.com/MaartenGr")
 DOUG_GUTHRIE = Author(name="Doug Guthrie", url="https://github.com/dpguthrie")
+ZELENTSOV_STANISLAV = Author(name="Zelentsov Stanislav", url="https://github.com/iboneh")
 PETER_BAUMGARTNER = Author(
     name="Peter Baumgartner",
     url="https://pmbaumgartner.github.io/",
@@ -59,4 +60,5 @@ AUTHORS = [
     STREAMLIT_AUTHOR,
     DOUG_GUTHRIE,
     ESTEE_TEY,
+    ZELENTSOV_STANISLAV,
 ]

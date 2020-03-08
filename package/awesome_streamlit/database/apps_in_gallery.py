@@ -204,6 +204,13 @@ APPS_IN_GALLERY = [
         author=authors.KEVIN_ARVAI,
     ),
     Resource(
+        name="SkillFactor Shooll Projects",
+        url=GITHUB_RAW_GALLERY_URL + "sf_school_app/sf_school_app.py",
+        tags=[tags.CODE, tags.APP_IN_GALLERY],
+        is_awesome=True,
+        author=authors.ZELENTSOV_STANISLAV,
+    ),
+    Resource(
         name="Iris EDA App",
         url=GITHUB_RAW_GALLERY_URL + "iris_eda_app/iris_eda_app.py",
         tags=[tags.CODE, tags.APP_IN_GALLERY],
